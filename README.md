@@ -1,5 +1,7 @@
 # Fome de Saúde, Vontade de Sabor
 Um livro sobre refeições gerado por inteligência artificial generativa.
+Imagem de capa: Imagine.art
+Título e conteúdo: ChatGPT
 
 ## Prompts Usados
 
